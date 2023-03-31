@@ -1,13 +1,16 @@
 # PrayerBot
-Discord Bot that Send a message when it is a prayer time in a simple way.
+بوت دسكورد بسيط يقوم بنشر رسالة عندما يحين وقت الأذان في المدينة التي تقوم باختيارها
 
+1- اكتب الاسطر التالية في التيرمنال
 
-1- type the following lines in the (terminal,cmd,shell...) - اكتب الاسطر التالية في التيرمنال
+يمكنك تخطي السطر التالي اذا كان لديك مشروع يعمل بالفعل
 
 npm init -y
 
 ![image](https://user-images.githubusercontent.com/69443406/229227978-28c80065-fde8-44db-9419-8073b110816e.png)
 
+
+يمكنك تخطي السطر التالي اذا كنت قد قمت بتحميل البكجات  مسبقا, ولكن يجب عليك تحميل اصدار 13 من بكج الدسكورد
 
 npm i discord.js@13 axios
 
